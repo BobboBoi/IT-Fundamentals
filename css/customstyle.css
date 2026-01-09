@@ -1,0 +1,35 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: #DDDDDD;
+    border-top: #444444 solid 4px;
+    border-collapse: collapse;
+}
+
+.content-container {
+    background-color: #FFFFFF;
+    margin: 32px auto 0;
+    padding: 16px 0;
+    width: 80%;
+    border-radius: 15px;
+}
+
+main, header {
+    margin: 0 32px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    margin: 16px 0;
+}
+
+audio {
+    margin: 8px 0;
+}
